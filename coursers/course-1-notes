@@ -1,0 +1,36 @@
+# Course 1 – Cloud Fundamentals (Notes)
+
+These are my notes from the first course in the **Cloud Technology Consultant Professional Certificate**.
+
+## Key Concepts I’ve Learned
+
+- **What is Cloud Computing?**
+  - On-demand access to computing resources (servers, storage, databases, networking) over the internet.
+  - Key characteristics: on-demand, elastic, pay-as-you-go, managed by provider.
+
+- **Service Models**
+  - **IaaS (Infrastructure as a Service)** – virtual machines, storage, networks. Similar to AWS EC2, EBS, VPC.
+  - **PaaS (Platform as a Service)** – managed platforms to run applications without managing servers.
+  - **SaaS (Software as a Service)** – complete applications delivered over the internet (e.g., email, CRM).
+
+- **Deployment Models**
+  - Public Cloud, Private Cloud, Hybrid Cloud, Multi-Cloud.
+
+## How This Relates to AWS Support
+
+- When customers have issues, they often don’t know or care whether it’s IaaS, PaaS, or SaaS—they just know “something in the cloud is broken.”
+- As a support engineer, knowing the **model** helps me:
+  - Understand what the customer controls vs. what AWS controls.
+  - Guide troubleshooting more effectively.
+
+## Sample Explanation (For Non-Technical Customers)
+
+> The cloud is like renting a fully-managed office building instead of building your own. You pay for what you use, and the provider takes care of the electricity, security, and maintenance.
+
+I’m practicing explaining these concepts in simple language because that’s important in support and consultant roles.
+
+
+
+---
+
+*Ongoing notes – I will keep updating this file as I progress through the course.*
